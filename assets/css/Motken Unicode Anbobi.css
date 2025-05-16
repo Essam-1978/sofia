@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Motken Unicode Anbobi';
+	src: url(../../assets/fonts/MotkenUnicodeAnbobi.woff2) format('woff2'),
+	url(../../assets/fonts/MotkenUnicodeAnbobi.woff) format('woff');
+	font-weight: 100;
+	font-style: normal;
+}
